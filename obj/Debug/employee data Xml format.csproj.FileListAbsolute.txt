@@ -1,0 +1,7 @@
+D:\EQ SOFT\C#\employee data Xml format\bin\Debug\employee data Xml format.exe.config
+D:\EQ SOFT\C#\employee data Xml format\bin\Debug\employee data Xml format.exe
+D:\EQ SOFT\C#\employee data Xml format\bin\Debug\employee data Xml format.pdb
+D:\EQ SOFT\C#\employee data Xml format\obj\Debug\employee data Xml format.csproj.AssemblyReference.cache
+D:\EQ SOFT\C#\employee data Xml format\obj\Debug\employee data Xml format.csproj.CoreCompileInputs.cache
+D:\EQ SOFT\C#\employee data Xml format\obj\Debug\employee data Xml format.exe
+D:\EQ SOFT\C#\employee data Xml format\obj\Debug\employee data Xml format.pdb
